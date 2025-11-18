@@ -1,14 +1,16 @@
-## 📊 GitHub Stats
+# Welcome, I'm  feliblo 👋😺
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Open+Source+Enthusiast;Always+Learning;font=Fira%20Code¢er=true&width=380&height=50)
+
+**Data Engineer** from **Amsterdam** 🇳🇱: I mainly work with `Python` 🐍, but enjoy writing `Rust` 🦀.
+
 
 ![feliblo's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliblo&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliblo&layout=compact&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliblo&layout=compact&theme=dark&hide_border=true) 😺
 
-
-# Hi there, I'm feliblo 👋😺
-
-I'm a **Data Engineer** from **Amsterdam** 🇳🇱, passionate about coding, efficiency and open source!
-I mainly work with **Python** 🐍, but enjoy writing **Rust** 🦀.
+![felix-the-cat-gif](https://media.tenor.com/xx5UVQdVj_kAAAAM/felix-the-cat-whistle-walk.gif)
 
 
 ---
