@@ -1,3 +1,17 @@
+## 📊 GitHub Stats
+
+![feliblo's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliblo&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliblo&layout=compact&theme=dark&hide_border=true) 😺
+
+
+# Hi there, I'm feliblo 👋😺
+
+I'm a **Data Engineer** from **Amsterdam** 🇳🇱, passionate about coding, efficiency and open source!
+I mainly work with **Python** 🐍, but enjoy writing **Rust** 🦀.
+
+
+---
 
 ## 🛠️ Tech & Tools
 
@@ -21,15 +35,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-## 📊 GitHub Stats
-
-![feliblo's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliblo&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliblo&layout=compact&theme=dark&hide_border=true) 😺
-
-
-# Hi there, I'm feliblo 👋😺
-
-I'm a **Data Engineer** from **Amsterdam** 🇳🇱, passionate about coding, efficiency and open source!
-I mainly work with **Python** 🐍, but enjoy writing **Rust** 🦀.
-
