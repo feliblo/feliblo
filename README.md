@@ -10,7 +10,7 @@
 
 ![felix-the-cat-gif](https://media.tenor.com/xx5UVQdVj_kAAAAM/felix-the-cat-whistle-walk.gif)
 
-**Data Engineer** from **Amsterdam** 🇳🇱: I mainly work with `Python` 🐍, but enjoy writing `Rust` 🦀.
+**Data & Full-Stack Engineer** from **Amsterdam** 🇳🇱: I mainly work with `Python` 🐍, but enjoy writing `Rust` 🦀.
 
 ---
 
